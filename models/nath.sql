@@ -1,0 +1,1 @@
+Select * from DB_ANBTX.SC_ANBTX.SUPP
